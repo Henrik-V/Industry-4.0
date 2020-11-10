@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Henriklab1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\hnv91\\OneDrive\\Skrivebord\\Fag\\Høst\ 2020\\Systems\ and\ control\ laboratory\\Industry\ 4-0\ lab\\asp\\vs-asp\\TemperatureReader\\TemperatureReader\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,114 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Temperature Reader";
+
+    String chartTitle = "Temperature chart";
+}
+
+@foreach (var data in Model.temperatureStatisticsList)
+{
+    Model.sampleTime = data.SampleTime;
+}
+
+<meta http-equiv="refresh" content="5">
+<div class="text-center">
+    <h1 class="display-4">Temperature logger</h1>
+</div>
+<form method="post">
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', { 'packages': ['corechart'] });
+		google.charts.setOnLoadCallback(drawChart); function drawChart() {
+	    var data = google.visualization.arrayToDataTable(
+		    [['Time', 'Temperature'],
+            @foreach (var temperature in Model.temperatureStatisticsList)
+            {
+                if (temperature.TemperatureUnit == "Celsius         ")
+                {
+                    @foreach (var data in Model.temperatureList) {
+                    <text>['@data.TimeStampo', @data.Celsius],</text>
+                    }
+                }
+                else
+                {
+                     @foreach (var data in Model.temperatureList) {
+                     <text>['@data.TimeStampo', @data.Fahrenheit],</text>
+                     }
+                }
+            }
+	    ]);
+	    var options = {
+		    title: '@chartTitle',
+		    curveType: 'function',
+		    pointsVisible: false,
+		    lineWidth: 2,
+		    legend: 'none',
+			hAxis: { title: 'Time' },
+            @foreach (var data in Model.temperatureStatisticsList) {
+				Model.chartUnit = data.TemperatureUnit;
+			}
+		    vAxis: { title: '@Model.chartUnit' },
+		    width: '100%', height: '100%',
+		    chartArea: { width: '90%', height: '60%' }
+	    };
+	        var chart = new google.visualization.LineChart(document.getElementById('line_chart'));
+	            chart.draw(data, options);
+		}
+    </script>
+
+    <div class="container-fluid lead">
+        <div id="line_chart" style="width: 1000px; height: 600px"></div>
+    </div>
+
+    <input type="submit" value="Change Temperature Unit" id="submitButton" />
+
+    <table align="right">
+        <tbody>
+            @foreach (var temperature in Model.temperatureStatisticsList)
+            {
+                if (temperature.TemperatureUnit == "Celsius         ")
+                {
+                    <tr> <th> Average Temperature </th> <td align="right"> @temperature.AverageCelsius &#8451;</td> </tr>
+                    <tr> <th> Minimum Temperature </th> <td> <td align="right"> @temperature.MinCelsius &#8451;</td> </tr>
+                    <tr> <th> Maximum Temperature </th> <td> <td align="right"> @temperature.MaxCelsius &#8451;</td> </tr>
+                }
+                else
+                {
+                    <tr> <th> Average Temperature </th> <td> <td align="right"> @temperature.AverageFahrenheit &#8457;</td> </tr>
+                    <tr> <th> Minimum Temperature </th> <td> <td align="right"> @temperature.MinFahrenheit &#8457;</td> </tr>
+                    <tr> <th> Maximum Temperature </th> <td> <td align="right"> @temperature.MaxFahrenheit &#8457;</td> </tr>
+                }
+
+            }
+        </tbody>
+    </table>
+
+    <div style="width:275px;height:200px;overflow:auto;">
+
+        <table align="left" border="1" width="250">
+            <thead>
+                <tr>
+                    <th> TimeStamp </th>
+                    <th> Celsius </th>
+                    <th> Fahrenheit </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var temperature in Model.temperatureList)
+                {
+                    <tr>
+                        <td> @temperature.TimeStampo hh:mm:ss</td>
+                        <td> @temperature.Celsius &#8451;</td>
+                        <td> @temperature.Fahrenheit &#8457;</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+
+
+</form>
+
+

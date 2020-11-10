@@ -1,0 +1,86 @@
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.exe
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.csprojAssemblyReference.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\staticwebassets\TemperatureReader.StaticWebAssets.Manifest.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\staticwebassets\TemperatureReader.StaticWebAssets.xml
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.RazorAssemblyInfo.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.RazorAssemblyInfo.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.AssemblyInfoInputs.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.AssemblyInfo.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.TagHelpers.input.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.TagHelpers.output.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.RazorCoreGenerate.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.RazorTargetAssemblyInfo.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.RazorTargetAssemblyInfo.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.deps.json
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.runtimeconfig.json
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.runtimeconfig.dev.json
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.pdb
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.Views.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.Views.pdb
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.Views.pdb
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.csproj.CopyComplete
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.pdb
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.csproj.CoreCompileInputs.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Vår 2020 - Industrial IT\Database lab\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.genruntimeconfig.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.exe
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.deps.json
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.runtimeconfig.json
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.runtimeconfig.dev.json
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.pdb
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.Views.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\TemperatureReader.Views.pdb
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.csprojAssemblyReference.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.csproj.CoreCompileInputs.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.RazorAssemblyInfo.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.RazorAssemblyInfo.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.AssemblyInfoInputs.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.AssemblyInfo.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.TagHelpers.input.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.TagHelpers.output.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.RazorCoreGenerate.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.RazorTargetAssemblyInfo.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.RazorTargetAssemblyInfo.cs
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.Views.pdb
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.csproj.CopyComplete
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\staticwebassets\TemperatureReader.StaticWebAssets.Manifest.cache
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\staticwebassets\TemperatureReader.StaticWebAssets.xml
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.dll
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.pdb
+C:\Users\hnv91\OneDrive\Skrivebord\Fag\Høst 2020\Systems and control laboratory\Industry 4-0 lab\asp\vs-asp\TemperatureReader\TemperatureReader\obj\Debug\netcoreapp3.1\TemperatureReader.genruntimeconfig.cache
